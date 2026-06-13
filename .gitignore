@@ -1,0 +1,10 @@
+# Third-party file — download from https://github.com/VBA-tools/VBA-JSON
+JsonConverter.bas
+
+# DPAPI-encrypted refresh token (never lives in repo, but guard anyway)
+*.dat
+
+# Office lock/temp files
+~$*
+
+SpaceControlAgent/
